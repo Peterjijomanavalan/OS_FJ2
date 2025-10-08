@@ -63,7 +63,7 @@ A modern and interactive desktop simulator built with **Python (Tkinter + Custom
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/CPU-Scheduling-Simulator.git
+git clone https://github.com/Peterjijomanavalan/OS_FJ2.git
 cd CPU-Scheduling-Simulator
 ````
 
