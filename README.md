@@ -118,10 +118,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### ⭐ If you found this useful, give it a star on GitHub!
-
-```
-
----
-
-Would you like me to include a **“How it works”** section explaining the internal logic of each algorithm (for documentation or academic submission)?
-```
